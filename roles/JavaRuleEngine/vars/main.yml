@@ -1,0 +1,12 @@
+---
+
+nexus_url: http://sandbox-svn.etriguecorp.com:8081/nexus/content/repositories
+artifact_version: 1.5-SNAPSHOT
+artifact_version1: 1.5-20170919.185039-1
+nexus_repository_name: snapshots
+group_id: com/etrigue
+artifact_id: EtrigueRuleEngine
+artifact_type: war
+backupDirectory_path: /home/deployment/artifactsbackup
+deployment_Destination: /opt/tomcat/webapps/JavaRuleEngine.war
+temp_Location_WAR: /tmp/tempartifacts

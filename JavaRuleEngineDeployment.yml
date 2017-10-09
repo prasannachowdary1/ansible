@@ -1,0 +1,6 @@
+---
+
+- hosts: dev-servers
+
+  roles:
+   - JavaRuleEngine 
